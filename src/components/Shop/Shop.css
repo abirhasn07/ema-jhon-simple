@@ -1,0 +1,15 @@
+.shop-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.product-container {
+    flex-basis: 70%;
+    padding: 10px;
+    border-right: 1px solid lightgray;
+}
+
+.card-container {
+    flex-basis: 25%;
+    padding: 10px;
+}
